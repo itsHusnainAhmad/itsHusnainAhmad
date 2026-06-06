@@ -144,7 +144,7 @@ const husnainAhmad = {
 <br/>
 
 <a href="https://husnainahmad.vercel.app" target="_blank"><img src="https://img.shields.io/badge/Portfolio-FF6900?style=flat-square&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
-<a href="https://linkedin.com/in/husnain-ahmad-9763992a5" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://www.linkedin.com/in/itshusnainahmad/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="mailto:ha2506267@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Gmail" /></a>
 <a href="https://x.com/itshusnainahmad" target="_blank"><img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white" alt="X" /></a>
 <a href="https://instagram.com/mortal_bhai_jaan" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" /></a>
